@@ -1,4 +1,4 @@
-I am Khady Sarah Sall, an aerospace engineering student at the Institut of Polytechnic Sciences and Aeronautics (IPSA) in Paris. 
+Hi, I am Khady Sarah Sall, an aerospace engineering student at the Institut of Polytechnic Sciences and Aeronautics (IPSA) in Paris. 
 Currently in my final year of a master’s program in Aerospace Vehicles, I specialize in mechanics and structures.
 
 I am passionate about everything related to aerospace, robotics, artificial intelligence, and the world of data.
