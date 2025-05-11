@@ -1,8 +1,4 @@
-Hi, I am Khady Sarah Sall, an aerospace engineering student at the Institut of Polytechnic Sciences and Aeronautics (IPSA) in Paris. 
-Currently in my final year of a master’s program in Aerospace Vehicles, I specialize in mechanics and structures.
-
-I am passionate about everything related to Mechanics,Structures,CFD, Simulations and Control Alogorithms.
-
-I am currently seeking a final-year internship or a capstone project starting in February 2025, for a duration of six months idealy one hat could lead to a long-term employment (France or abroad).
-
-Attentive to new technological advancements, I always catch the train of innovation and research. This curiosity explains my interest in various fields and motivates me to continue learning and actively contribute to tomorrow’s innovative projects.
+Je suis ingénieure en aéronautique spécialisée en gestion de projets techniques, et passionnée par l’intégration de l’intelligence artificielle dans les outils métiers.
+J’ai piloté des projets logiciels sur mesure pour de grands comptes industriels (EDF, SNCF, Vallourec), coordonné des équipes en méthode Agile, assuré la relation client, et contribué à l’amélioration continue des solutions livrées.
+J’ai également mené un projet entrepreneurial autour de l’IA appliquée (prompting, stratégie digitale, génération automatisée) en partant de zéro.
+Aujourd’hui, je souhaite intégrer une entreprise engagée dans l’innovation technologique, où je pourrai contribuer concrètement et continuer à évoluer dans un environnement stimulant.
